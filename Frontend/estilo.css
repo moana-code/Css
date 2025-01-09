@@ -1,0 +1,35 @@
+/* estilo.css */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f8ff;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin-top: 20px;
+    color: #005f99;
+}
+
+#contador {
+    font-size: 48px;
+    margin: 20px 0;
+    color: #00796b;
+}
+
+.botoes button {
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #00796b;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.botoes button:hover {
+    background-color: #004d40;
+}
